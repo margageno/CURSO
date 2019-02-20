@@ -1,4 +1,4 @@
-package ocp.bad;
+package second.bad;
 
 public enum ResultType {
     REGULAR,

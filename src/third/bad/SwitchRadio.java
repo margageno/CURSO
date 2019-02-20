@@ -1,4 +1,6 @@
 package third.bad;
 
-public class SwitchRadio {
+public interface SwitchRadio {
+    void turnRadioOn();
+    void turnRadioOff();
 }

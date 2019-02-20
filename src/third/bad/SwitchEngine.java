@@ -1,4 +1,6 @@
 package third.bad;
 
-public class SwitchEngine {
+public interface SwitchEngine {
+    void startEngine();
+    void shutDownEngine();
 }

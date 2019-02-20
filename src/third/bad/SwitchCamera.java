@@ -1,4 +1,6 @@
 package third.bad;
 
-public class SwitchCamera {
+public interface SwitchCamera {
+    void turnCameraOn();
+    void turnCameraOff();
 }

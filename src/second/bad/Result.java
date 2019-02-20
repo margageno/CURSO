@@ -1,4 +1,4 @@
-package ocp.bad;
+package second.bad;
 
 public class Result {
     private ResultType resultType;

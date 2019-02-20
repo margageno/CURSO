@@ -1,6 +1,6 @@
-package ocp.good;
+package second.good;
 
-import ocp.bad.ResultType;
+import second.bad.ResultType;
 
 public class Result {
     private ResultType resultType;

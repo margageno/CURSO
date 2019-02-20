@@ -1,10 +1,7 @@
-package ocp.good;
-
-import ocp.bad.Result;
-import ocp.bad.ResultType;
+package second.good;
 
 public class ResultHandler {
-    public Result handle (ResultType resultType) {
-
+    public Result handle (ResultCreator resultCreator) {
+        return resultCreator.create();
     }
 }
